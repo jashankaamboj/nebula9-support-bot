@@ -1,0 +1,13 @@
+streamlit
+openai-whisper
+gtts
+pyttsx3
+sentence-transformers
+scikit-learn
+torch
+tqdm
+faiss-cpu
+requests
+numpy
+llvmlite
+numba
