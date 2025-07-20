@@ -1,4 +1,4 @@
-# Real-Time Customer Support Bot - README
+# Real-Time Customer Support Bot 
 📌 Project Overview
 This is a real-time customer support bot that uses speech-to-text and semantic search to help users get instant answers from a knowledge base. It uses Whisper for audio transcription, sentence transformers for finding the best match answer, and Streamlit for a web interface.
 📁 Project Files
